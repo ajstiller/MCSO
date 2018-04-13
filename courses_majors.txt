@@ -1,0 +1,2364 @@
+1	394	400	414
+4
+1
+394
+400
+414
+associate of Science Degree: accountancy
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ACCT 120 Federal Income Tax 3 
+ACCT 121 California Income Tax 1 
+ACCT 150 Computer Accounting Applications 3 
+ACCT 201A Intermediate Accounting I 3 
+BUSE 100 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal Environment 3 
+CISC 181 Principles of Information Systems 4 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+total Units = 37 
+
+
+
+2	769	772	789
+4
+2
+769
+772
+789
+
+
+associate of Science Degree: administration of Justice
+ADJU 381 POST Certifed Regional Academy Module 1 15 
+ADJU 382 POST Certifed Regional Academy Module 2 4.5 
+ADJU 383 P.O.S.T. Certifed Regional Academy Module 3 2 
+ADJU 384 POST Certifed Regional Academy Module 4 4 
+Select 9 units from the following: 
+ADJU 160 Criminal Law II 3 
+ADJU 161 Juvenile Procedures 3 
+ADJU 180 Drug Abuse and Law Enforcement 3 
+ADJU 182 Street Gangs and Law Enforcement 3 
+ADJU 201 California Criminal Procedures 3 
+ADJU 210 Rules of Evidence 3 
+ADJU 230 Constitutional Law I 3 
+total Units = 34.5 
+
+
+3	793	796	806
+4
+3
+793
+796
+806
+
+
+associate of Science Degree: administration of Justice
+ADJU 101 Introduction to Administration of Justice 3 
+ADJU 102 Criminal Law I 3 
+ADJU 161 Juvenile Procedures 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 167 Report Writing 3 
+ADJU 201 California Criminal Procedures 3 
+ADJU 323A S.T.C. Certifed Corrections Ofcer 
+Core Course 11.5 
+total Units = 29.5 
+
+
+
+4	807	810	826
+4
+4
+807
+810
+826
+associate of Science Degree: administration of Justice
+ADJU 101 Introduction to Administration of Justice 3 
+ADJU 102 Criminal Law I 3 
+ADJU 106 Diversity and Community Relations 3 
+ADJU 160 Criminal Law II 3 
+ADJU 161 Juvenile Procedures 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 167 Report Writing 3 
+ADJU 201 California Criminal Procedures 3 
+ADJU 210 Rules of Evidence 3 
+ADJU 220 Law Enforcement Forensics 3 
+Select 3 units from the following: 
+ADJU 180 Drug Abuse and Law Enforcement 3 
+ADJU 182 Street Gangs and Law Enforcement 3 
+ADJU 230 Constitutional Law I 3 
+total Units = 33 
+
+
+5	827	830	857
+4
+5
+827
+830
+857
+
+
+associate of Science Degree: administration of Justice
+ADJU 101 Introduction to Administration of Justice 3 
+ADJU 102 Criminal Law I 3 
+ADJU 106 Diversity and Community Relations 3 
+ADJU 160 Criminal Law II 3 
+ADJU 161 Juvenile Procedures 3 
+ADJU 167 Report Writing 3 
+ADJU 201 California Criminal Procedure 3 
+ADJU 210 Rules of Evidence 
+Select nine units from the following: 
+ADJU 127A Physical Conditioning I 1 
+ADJU 127B Physical Conditioning II 1 
+ADJU 127C Physical Conditioning III 1 
+ADJU 127D Physical Conditioning IV 1 
+ADJU 128A Defensive Tactics I 1 
+ADJU 128B Defensive Tactics II 1 
+ADJU 128C Defensive Tactics III 1 
+ADJU 128D Defensive Tactics IV 1 
+ADJU 140 Patrol Procedures 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 180 Drug Abuse and Law Enforcement 3 
+ADJU 182 Street Gangs and Law Enforcement 3 
+ADJU 220 Law Enforcement Forensics 3 
+ADJU 230 Constitutional Law I 3 
+ADJU 357A 832 PC Laws of Arrest 1 
+ADJU 357B 832 PC Firearms 0.5 
+total Units = 33 
+
+
+6	862	879	899
+4
+6
+862
+879
+899
+
+
+associate in Science in administration of Justice for
+ADJU 101 Introduction to Administration of Justice* 
+ADJU 102 Criminal Law I 
+Select two of the following courses: 
+ADJU 161 Juvenile Procedures 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 194 Introduction to Correctional Science 3 
+ADJU 201 California Criminal Procedure 3 
+ADJU 210 Rules of Evidence 3 
+ADJU 220 Law Enforcement Forensics 3 
+Select two of the following courses (minimum 6 units): 
+MATH 119 Elementary Statistics or 
+PSYC 258 Behavioral Science Statistics 3 
+POLI 102 The American Political System 3 
+SOCO 101 Principles of Sociology 3 
+SOCO 110 Contemporary Social Problems 3 
+total Units = 18 
+
+
+7	1006	1024	1053
+4
+7
+1006
+1024
+1053
+
+
+associate in arts in anthropology for transfer Degree:
+ANTH 102 Introduction to Physical Anthropology 3 
+ANTH 103 Introduction to Cultural Anthropology 3 
+ANTH 107 Introduction to Archaeology 3 
+MATH 119 Elementary Statistics or 
+PSYC 258 Behavioral Science Statistics 3 
+Select one to two courses (4–5 units) from the following: 
+ANTH 104 Laboratory in Physical Anthropology 1 
+BIOL 230 Human Anatomy 4 
+GEOL 100 Physical Geology 3 
+GEOL 101 Physical Geology Laboratory 1 
+Select one or more courses (3 units minimum) from the following: 
+ANTH 104 Laboratory in Physical Anthropology 1 
+BIOL 230 Human Anatomy 4 
+BLAS 140A History of the U.S., Black Perspectives 3 
+BLAS 140B History of the U.S., Black Perspectives 3 
+COMS 180 Intercultural Communication 3 
+FILI 100 Filipino American Experience 3 
+GEOG 102 Cultural Geography 3 
+GEOG 104 World Regional Geography 3 
+GEOL 100 Physical Geology 3 
+GEOL 101 Physical Geology Laboratory 1 
+HIST 120 Introduction to Asian Civilizations 3 
+HIST 121 Asian Civilizations in Modern Times 3 
+HUMA 106 World Religions 3 
+MUSI 109 World Music 3 
+SOCO 223 Globalization and Social Change 
+total Units = 19–21 
+
+
+8	1149	1167	1181
+4
+8
+1149
+1167
+1181
+
+
+associate in arts in art History for transfer Degree:
+ARTF 110 Art History: Prehistoric to Gothic 3 
+ARTF 111 Art History: Renaissance to Modern 3 
+ARTF 125 Art History: Arts of the Asian Continent 3 
+ARTF 150A Two-Dimensional Design 3 
+ARTF 155A Freehand Drawing I 3 
+Select one course (3 units minimum) from the following: 
+ARTF 107 Contemporary Art 3 
+ARTF 109 Modern Art 3 
+ARTF 113 Arts of Africa, Oceania, and the Americas 3 
+DFLM 101 Introduction to Film 3 
+total Units = 18 
+
+
+9	1308	1311	1343
+4
+9
+1308
+1311
+1343
+
+
+associate of arts Degree: art–Fine art
+ARTF 150A Two-Dimensional Design 3
+ARTF 150B Design II 
+ARTF 155A Freehand Drawing I 
+ARTF 155B Freehand Drawing II 
+ARTF 165A Composition Painting I 
+ARTF 210A Life Drawing I 
+Select six units from the following: 
+ARTF 109 Modern Art 
+ARTF 110 Art History: Prehistoric to Gothic 
+ARTF 111 Art History: Renaissance to Modern 
+Select three units from the following: 
+ARTF 107 Contemporary Art 
+ARTF 151 Three-Dimensional Design 
+ARTF 198A Introduction to Printmaking I 
+ARTF 198B Introduction to Printmaking II 
+ARTF 198C Introduction to Printmaking III 
+ARTF 210B Life Drawing II 
+
+Units 
+3
+3
+3
+3
+3
+3
+3
+hic 3 
+dern 3 
+3
+3
+3
+3
+3
+3
+total Units = 27 
+10	1350	1353	1385
+4
+10
+1350
+1353
+1385
+associate of arts Degree: art–Fine art
+ARTF 150A Two-Dimensional Design 
+ARTF 151 Three-Dimensional Design 
+ARTF 155A Freehand Drawing I 
+ARTF 170A Contemporary Crafts I 
+ARTF 195A Ceramics I 
+Select six units from the following: 
+ARTF 109 Modern Art 
+ARTF 110 Art History: Prehistoric to Gothic 3
+ARTF 111 Art History: Renaissance to Modern 3
+sUnits 
+3
+3
+3
+3
+3
+3
+ic 3 
+dern 3 
+Select three units from the following: 
+ARTF 107 Contemporary Art 3 
+ARTF 109 Modern Art 3 
+ARTF 110 Art History: Prehistoric to Gothic 3 
+ARTF 111 Art History: Renaissance to Modern 3 
+ARTF 113 Arts of Africa, Oceania, and the 
+Americas 3 
+ARTF 125 Art History: Arts of the Asian 
+Continent 3 
+ARTF 155B Freehand Drawing II 3 
+ARTF 170B Contemporary Crafts II 3 
+ARTF 170C Contemporary Crafts III 3 
+ARTF 195B Ceramics II 3 
+ARTF 195C Ceramics III 3 
+ARTF 220A Life Sculpture I 3 
+total Units = 24 
+11	1392	1395	1424
+4
+11
+1392
+1395
+1424
+associate of arts Degree: art–Fine art
+ARTF 100 Art Orientation 3 
+ARTF 150A Two-Dimensional Design 3 
+ARTF 150B Beginning Graphic Design 3 
+ARTF 151 Three-Dimensional Design 3 
+ARTF 155A Freehand Drawing I 3 
+ARTF 155B Freehand Drawing II 3 
+ARTF 165A Composition in Painting I 3 
+ARTF 210A Life Drawing I or 
+ARTF 220A Life Sculpture I 3 
+Select six units from the following: 
+ARTF 109 Modern Art 3 
+ARTF 110 Art History: Prehistoric to Gothic 3 
+ARTF 111 Art History: Renaissance to Modern 3 
+Foreign language Requirement: three semesters 
+of one foreign language or the successful 
+completion of a profciency examination is 
+required: 
+SPAN 101 First Course in Spanish 5 
+SPAN 102 Second Course in Spanish 5 
+SPAN 201 Third Course in Spanish 5 
+SPAN 202 Fourth Course in Spanish 5 
+TAGA 101 First Course in Tagalog 5 
+art/Visual Studies 
+San Diego MiraMar College • 2017–2018 149 
+
+TAGA 102 Second Course in Tagalog 5 • 
+The CSU GE pattern (page 118) is accepted by all 
+TAGA 201 Third Course in Tagalog 5 CSU campuses and some private/independent or 
+total Units = 45 
+12	1431	1449	1460
+4
+12
+1431
+1449
+1460
+associate in arts in Studio arts for transfer Degree:
+ARTF 110 Art History: Prehistoric to Gothic 3 
+ARTF 111 Art History: Renaissance to Modern 3 
+ARTF 150A Two-Dimensional Design 3 
+ARTF 151 Three-Dimensional Design 3 
+ARTF 155A Freehand Drawing I 3 
+ARTF 155B Freehand Drawing II or 
+ARTF 210A Life Drawing I 3 
+ARTF 165A Composition in Painting I 3 
+ARTF 165B Composition in Painting II or 
+ARTF 210B Life Drawing II 3 
+total Units = 24 
+13	1480	1493	1530
+4
+13
+1480
+1493
+1530
+associate of arts Degree: art/Visual Studies
+ARTF 110 
+ARTF 111 
+Art History: Prehistoric to Gothic 
+Art History: Renaissance to Modern 
+3
+3
+Select at least 12 units, including at least two 
+aRtF courses from the following: 
+ARTF 100 Art Orientation 3 
+ARTF 107 Contemporary Art 3 
+ARTF 109 Modern Art 3 
+ARTF 113 Arts of Africa, Oceania, and 
+the Americas 3 
+ARTF 125 Art History: Arts of the Asian 
+Continent 3 
+ARTF 150A Two-Dimensional Design 3 
+ARTF 150B Beginning Graphic Design 
+ARTF 151 Three-Dimensional Design 
+ARTF 155A Freehand Drawing I 
+ARTF 155B Freehand Drawing II 
+ARTF 165A Composition in Painting I 
+ARTF 170A Contemporary Crafts I 
+ARTF 170B Contemporary Crafts II 
+ARTF 195A Ceramics I 
+ARTF 198A Introduction to Printmaking I 
+150 San Diego MiraMar College • 2017–2018 
+
+ARTF 210A Life Drawing I 3 
+ARTF 210B Life Drawing II 3 
+CHIL 101 Human Growth and Development 3 
+CHIL 103 Lifespan Growth and Development 3 
+ENGL 209 Literary Approaches to Film 3 
+GEOG 102 Cultural Geography 3 
+PSYC 101 General Psychology 3 
+PSYC 230 Psychology of Lifespan Development 3 
+SOCO 101 Principles of Sociology 3 
+total Units = 18 
+14	1779	1781	1811
+4
+14
+1779
+1781
+1811
+associate of Science Degree: automotive technology
+AUTO 56 Engine and Related Systems or 
+AUTO 56T Honda/Toyota Engine and Related 
+Systems 4 
+AUTO 61 Basic Electricity and Electrical Systems 
+Fundamentals or 
+AUTO 61T Honda/Toyota Basic Electricity and 
+Electrical Systems Fundamentals 4 
+AUTO 62 Advanced Electrical or 
+AUTO 62T Honda/Toyota Advanced Electrical 4 
+AUTO 65 Engine Performance or 
+AUTO 65T Honda/Toyota Engine Performance 4 
+AUTO 67 Advanced Engine Performance or 
+AUTO 67T Honda/Toyota Advanced Engine 
+Performance 4 
+AUTO 69 Climate Control Systems or 
+AUTO 69T Honda/Toyota Climate Control 
+Systems 4 
+AUTO 72 Manual Drive Train and Axles or 
+AUTO 72T Honda/Toyota Manual Drive Train and 
+Axles 4 
+AUTO 74 Automatic Transmissions/Axles or 
+AUTO 74T Honda/Toyota Automatic 
+Transmissions Axles 4 
+AUTO 76 Automotive Brake Systems or 
+AUTO 76T Honda/Toyota Automotive Brake 
+Systems 4 
+AUTO 78 Suspension, Steering and Handling or 
+AUTO 78T Honda/Toyota Suspension, Steering 
+and Handling 4 
+total Units = 40 
+15	1831	1921	1977
+4
+15
+1831
+1921
+1977
+associate of Science Degree: Airframe 47*
+general curriculum 
+AVIM 101G General Aviation Technology 
+Theory I 6 
+AVIM 101H General Aviation Technology 
+Theory II 6 
+AVIM 102G General Aviation Maintenance 
+Technology Practices I 2 
+AVIM 102H General Aviation Maintenance 
+Technology Practices II 2 
+AVIM 109D Aircraft Fire Protection and Digital 
+Logic 1 
+AVIM 120 Basic D.C. Electronics Theory 3 
+AVIM 121A Applied Basic D.C. Electronics 1.5 
+airframe curriculum 
+AVIM 103A Aircraft Wood, Fabric, Finishing and 
+Composite Structures 3 
+AVIM 104A Applied Aircraft Wood, Fabric, 
+Finishing and Composite Structures 1.5 
+AVIM 103B Aircraft Welding and Sheetmetal 
+Structures 3 
+AVIM 104B Applied Aircraft Welding and 
+Sheetmetal Structures 1.5 
+AVIM 103C Aircraft Hydraulic Systems 3 
+AVIM 104C Applied Aircraft Hydraulic Systems 1 
+AVIM 103D Aircraft Landing Gear Systems 3 
+AVIM 104D Applied Aircraft Landing Gear 
+Systems 1 
+AVIM 105A Aircraft Cabin Atmosphere Control 1.5 
+AVIM 106A Aircraft Cabin Atmosphere Control 0.5 
+AVIM 105B Aircraft Assembly, Rigging and 
+Inspection 1.5 
+AVIM 106B Applied Aircraft Assembly, Rigging 
+and Inspection 1 
+AVIM 109A Airframe Electrical Systems 3 
+AVIM 110A Applied Airframe Electrical Systems 1 
+Powerplant curriculum 
+AVIM 107B Turbine Engines 3 
+AVIM 108B Applied Turbine Engines 1 
+AVIM 109B Powerplant Ignition Systems 2 
+AVIM 110B Applied Powerplant Ignition 
+Systems 0.5 
+AVIM 109C Powerplant Electrical Systems 3 
+AVIM 110C Applied Powerplant Electrical 
+Systems 0.5 
+AVIM 111C Reciprocating Engines I 3 
+AVIM 112C Applied Reciprocating Engines I 2 
+AVIM 111D Reciprocating Engines II 3 
+AVIM 112D Applied Reciprocating Engines II 1 
+AVIM 241 Aircraft Propeller Systems 3 
+AVIM 242 Applied Aircraft Propeller Systems 1 
+AVIM 249 Induction and Fuel Metering 3 
+AVIM 250 Applied Induction and Fuel Metering 1 
+AVIM 253 Lubrication, Cooling, and Exhaust 3 
+AVIM 254 Applied Lubrication, Cooling, and 
+Exhaust 1 
+total Units = 78 
+16	2153	2158	2217
+4
+16
+2153
+2158
+2217
+associate of Science Degree: aviation Maintenance technology
+general curriculum 
+AVIM 101G General Aviation Technology 
+Theory I 6 
+AVIM 101H General Aviation Technology 
+Theory II 6 
+AVIM 102G General Aviation Maintenance 
+Technology Practices I 
+2
+AVIM 102H General Aviation Maintenance 
+Technology Practices II 
+2
+AVIM 109D Aircraft Fire Protection and Digital 
+Logic 1 
+AVIM 120 Basic D.C. Electronics Theory 3 
+AVIM 121A Applied Basic D.C. Electronics 1.5 
+airframe curriculum 
+AVIM 103A Aircraft Wood, Fabric, Finishing and 
+Composite Structures 
+3
+AVIM 104A Applied Aircraft Wood, Fabric, 
+Finishing and Composite Structures 1.5 
+AVIM 103B Aircraft Welding and Sheetmetal 
+Structures 3 
+AVIM 104B Applied Aircraft Welding and 
+Sheetmetal Structures 1.5 
+AVIM 103C Aircraft Hydraulic Systems 3 
+AVIM 104C Applied Aircraft Hydraulic Systems 1 
+AVIM 103D Aircraft Landing Gear Systems 3 
+AVIM 104D Applied Aircraft Landing Gear 
+Systems 1 
+AVIM 105A Aircraft Cabin Atmosphere Control 1.5 
+AVIM 106A Aircraft Cabin Atmosphere Control 0.5 
+AVIM 105B Aircraft Assembly, Rigging and 
+Inspection 1.5 
+AVIM 106B Applied Aircraft Assembly, Rigging 
+and Inspection 1 
+AVIM 109A Airframe Electrical Systems 3 
+AVIM 110A Applied Airframe Electrical Systems 1 
+Powerplant curriculum 
+AVIM 107B Turbine Engines 3 
+AVIM 108B Applied Turbine Engines 1 
+AVIM 109B Powerplant Ignition Systems 2 
+AVIM 110B Applied Powerplant Ignition 
+Systems 0.5 
+AVIM 109C Powerplant Electrical Systems 3 
+AVIM 110C Applied Powerplant Electrical 
+Systems 0.5 
+AVIM 111C Reciprocating Engines I 3 
+AVIM 112C Applied Reciprocating Engines I 2 
+AVIM 111D Reciprocating Engines II 3 
+AVIM 112D Applied Reciprocating Engines II 1 
+AVIM 241 Aircraft Propeller Systems 3 
+AVIM 242 Applied Aircraft Propeller Systems 1 
+AVIM 249 Induction and Fuel Metering 3 
+AVIM 250 Applied Induction and Fuel Metering 1 
+AVIM 253 Lubrication, Cooling, and Exhaust 3 
+AVIM 254 Applied Lubrication, Cooling, and 
+Exhaust 1 
+total Units = 78 
+17	2225	2229	2263
+4
+17
+2225
+2229
+2263
+associate of Science Degree: aviation Maintenance technology
+general curriculum: 
+AVIM 101G General Aviation Technology Theory I 6 
+AVIM 101H General Aviation Technology Theory II 6 
+AVIM 102G General Aviation Maintenance 
+Technology Practices I 2 
+AVIM 102H General Aviation Maintenance 
+Technology Practices II 2 
+AVIM 109D Aircraft Fire Protection and Digital 
+Logic 1 
+AVIM 120 Basic D.C. Electronics Theory 3 
+AVIM 121A Applied Basic D.C. Electronics 1.5 
+airframe curriculum: 
+AVIM 103A Aircraft Wood, Fabric, Finishing and 
+Composite Structures 3 
+AVIM 104A Applied Aircraft Wood, Fabric, 
+Finishing and Composite Structures 1.5 
+AVIM 103B Aircraft Welding and Sheetmetal 
+Structures 3 
+AVIM 104B Applied Aircraft Welding and 
+Sheetmetal Structures 1.5 
+AVIM 103C Aircraft Hydraulic Systems 3 
+AVIM 104C Applied Aircraft Hydraulic Systems 1 
+AVIM 103D Aircraft Landing Gear Systems 3 
+AVIM 104D Applied Aircraft Landing Gear 
+Systems 1 
+AVIM 105A Aircraft Cabin Atmosphere Control 1.5 
+AVIM 106A Aircraft Cabin Atmosphere Control 0.5 
+AVIM 105B Aircraft Assembly, Rigging and 
+Inspection 1.5 
+AVIM 106B Applied Aircraft Assembly, Rigging 
+and Inspection 1 
+AVIM 109A Airframe Electrical Systems 3 
+AVIM 110A Applied Airframe Electrical Systems 1 
+total Units = 47 
+18	2268	2272	2306
+4
+18
+2268
+2272
+2306
+associate of Science Degree: aviation Maintenance technology
+general curriculum 
+AVIM 101G General Aviation Technology 
+Theory I 6 
+AVIM 101H General Aviation Technology 
+Theory II 
+AVIM 102G General Aviation Maintenance 
+Technology Practices I 
+AVIM 102H General Aviation Maintenance 
+Technology Practices II 
+AVIM 109D Aircraft Fire Protection and Digital 
+Logic 1 
+AVIM 120 Basic D.C. Electronics Theory 3 
+AVIM 121A Applied Basic D.C. Electronics 1.5 
+Powerplant curriculum 
+AVIM 107B Turbine Engines 3 
+AVIM 108B Applied Turbine Engines 1 
+AVIM 109B Powerplant Ignition Systems 2 
+AVIM 110B Applied Powerplant Ignition 
+Systems 0.5 
+AVIM 109C Powerplant Electrical Systems 3 
+AVIM 110C Applied Powerplant Electrical 
+Systems 0.5 
+AVIM 111C Reciprocating Engines I 3 
+AVIM 112C Applied Reciprocating Engines I 2 
+AVIM 111D Reciprocating Engines II 3 
+AVIM 112D Applied Reciprocating Engines II 1 
+AVIM 241 Aircraft Propeller Systems 3 
+AVIM 242 Applied Aircraft Propeller Systems 1 
+AVIM 249 Induction and Fuel Metering 3 
+AVIM 250 Applied Induction and Fuel Metering 1 
+AVIM 253 Lubrication, Cooling, and Exhaust 3 
+AVIM 254 Applied Lubrication, Cooling, and 
+Exhaust 1 
+total Units = 52.5 
+19	2313	2325	2335
+4
+19
+2313
+2325
+2335
+associate of Science Degree: aviation Maintenance technology
+general curriculum 
+AVIA 101 Private Pilot Ground School 
+Units 
+3
+AVIA 128 Group Dynamics: Teams Under 
+Stress 3 
+AVIA 133 Human Factors in Aviation 3 
+AVIM 101G General Aviation Technology Theory I 6 
+AVIM 101H General Aviation Technology Theory II 6 
+total Units = 21 
+20	2347	2358	2408
+4
+20
+2347
+2358
+2408
+associate of Science Degree aviation Maintenance technology
+AVIM 101G General Aviation Technology Theory I 6 
+AVIM 101H General Aviation Technology Theory II 6 
+AVIM 102G General Aviation Maintenance 
+Technology Practices I 2 
+AVIM 102H General Aviation Maintenance 
+Technology Practices II 2 
+Select 2 or more units from the following: 
+AVIM 103A Aircraft Wood, Fabric, Finishing and 
+Composite Structures 
+3
+AVIM 104A Applied Aircraft Wood, Fabric, 
+Finishing and Composite Structures 1.5 
+AVIM 103B Aircraft Welding and Sheetmetal 
+Structures 3 
+AVIM 103C Aircraft Hydraulic Systems 3 
+AVIM 104B Applied Aircraft Welding and 
+Sheetmetal Structures 1.5 
+AVIM 104C Applied Aircraft Hydraulic Systems 1 
+AVIM 103D Aircraft Landing Gear Systems 3 
+AVIM 104D Applied Aircraft Landing Gear 
+Systems 1 
+AVIM 105A Aircraft Cabin Atmosphere Control 1.5 
+AVIM 106A Aircraft Cabin Atmosphere Control 0.5 
+AVIM 105B Aircraft Assembly, Rigging and 
+Inspection 1.5 
+AVIM 106B Applied Aircraft Assembly, Rigging 
+and Inspection 1 
+AVIM 109A Airframe Electrical Systems 3 
+AVIM 110A Applied Airframe Electrical Systems 1 
+Powerplant curriculum: 
+AVIM 107B Turbine Engines 3 
+AVIM 108B Applied Turbine Engines 1 
+AVIM 109B Powerplant Ignition Systems 2 
+AVIM 110B Applied Powerplant Ignition 
+Systems 0.5 
+AVIM 109C Powerplant Electrical Systems 3 
+AVIM 110C Applied Powerplant Electrical 
+Systems 0.5 
+AVIM 111C Reciprocating Engines I 3 
+AVIM 112C Applied Reciprocating Engines I 2 
+AVIM 111D Reciprocating Engines II 3 
+AVIM 112D Applied Reciprocating Engines II 1 
+AVIM 241 Aircraft Propeller Systems 3 
+AVIM 242 Applied Aircraft Propeller Systems 1 
+AVIM 249 Induction and Fuel Metering 3 
+AVIM 250 Applied Induction and Fuel Metering 1 
+AVIM 253 Lubrication, Cooling, and Exhaust 3 
+AVIM 254 Applied Lubrication, Cooling, and 
+Exhaust 1 
+total Units = 18 
+21	2660	2662	2707
+4
+21
+2660
+2662
+2707
+1	0	0
+AVIA 101 Private Pilot Ground School 3 
+Note: FAA-issued Private Pilot certifcate satisfes the 
+AVIA 101 requirement. 
+AVIA 105 Introduction to Aviation and 
+Aerospace 3 
+AVIA 125 Aviation and Airport Management 3 
+AVIA 133 Human Factors in Aviation 3 
+BUSE 119 Business Communications 3 
+Select one of the following leadership/ 
+management-related courses: 
+AVIA 128 Group Dynamics for High Risk Teams 3 
+ADJU 205 Leadership Theory and Practice 3 
+BUSE 201 Business Organization and 
+Management 3 
+Select one of the following business information 
+systems-related courses: 
+CBTE 180 Microsoft Ofce 3 
+CBTE 210 Computers in Business 3 
+CISC 181 Principles of Information Systems 4 
+Select one of the following business economics-
+related courses: 
+ACCT 116A Financial Accounting 4 
+ECON 121 Principles of Microeconomics 3 
+Select an additional 3 units from the following: 
+AVIA 101L Private Pilot Flight Lab 1 
+AVIA 115 Aviation Weather 3 
+AVIA 128 Group Dynamics for High Risk Teams 3 
+AVIA 228 Group Dynamics II 3 
+AVIA 270 Aviation Operations Internship / 
+Work Experience 1–4 
+AVIA 277D Aviation Service Learning -- on 
+Campus 1–3 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ADJU 205 Leadership Theory and Practice 3 
+BUSE 140 Business Law and the Legal 
+Environment 3 
+BUSE 201 Business Organization and 
+Management 3 
+CBTE 180 Microsoft Ofce 3 
+CBTE 210 Computers in Business 3 
+CISC 181 Principles of Information Systems 4 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+total Units = 27–30 
+22	2747	2754	2801
+4
+22
+2747
+2754
+2801
+associate of Science Degree: Professional aeronautics
+AVIA 101 Private Pilot Ground School 3 
+AVIA 101L Private Pilot Flight Lab 1 
+AVIA 105 Introduction to Aviation and 
+Aerospace 3 
+AVIA 133 Human Factors in Aviation 3 
+AVIA 195 Instrument Ground School 3 
+AVIA 195L Basic Instrument Flight Lab 1 
+AVIA 196L Advanced Instrument Flight Lab 1 
+AVIA 201 Commercial Pilot Ground School 3 
+Select one of the following aviation breadth 
+courses: 
+AVIA 125 Aviation and Airport Management 3 
+AVIA 128 Group Dynamics for High Risk Teams 3 
+AVIA 151 Helicopter Ground School 3 
+AVIA 211 Flight Instructor Ground School 3 
+Select one of the following physical science 
+courses: 
+AVIA 115 Aviation Weather 3 
+GEOG 101 Physical Geography 3 
+GEOL 104 Earth Science 3 
+PHYS 125 General Physics 5 
+PHYS 180A General Physics I 4 
+PHYS 195 Mechanics 5 
+Select an additional 3 units from the following: 
+AVIA 115 Aviation Weather 3 
+AVIA 125 Aviation and Airport Management 3 
+AVIA 128 Group Dynamics for High Risk Teams 3 
+AVIA 151 Helicopter Ground School 3 
+AVIA 211 Flight Instructor Ground School 3 
+AVIA 211L Basic Visual Flight Instructor Lab 1 
+AVIA 215L Basic Instrument Flight Instructor Lab 1 
+AVIA 216L Advanced Instrument Flight Instructor 
+Lab 1 
+AVIA 228 Group Dynamics II 3 
+AVIA 270 Aviation Operations Internship / 
+Work Experience 1–4 
+AVIA 277D Aviation Service Learning -- on 
+Campus 1–3 
+ACCT 116A Financial Accounting 4 
+ADJU 205 Leadership Theory and Practice 3 
+BUSE 201 Business Organization and 
+Management 3 
+ECON 121 Principles of Microeconomics 3 
+PHYS 125 General Physics 5 
+PHYS 180A General Physics I 4 
+PHYS 195 Mechanics 5 
+total Units = 27–32 
+23	2929	2942	2979
+4
+23
+2929
+2942
+2979
+associate of Science Degree: Biology Studies
+BIOL 210A Introduction to the Biological 
+Sciences I 4 
+Select 4 to 9 units from the following: 
+BIOL 210B Introduction to the Biological 
+Sciences II 4 
+CHEM 200 General Chemistry I – Lecture 3 
+CHEM 200L General Chemistry I – Laboratory 2 
+Select 5 to 10 or more units from the following: 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+BIOL 115 Marine Biology 4 
+BIOL 205 General Microbiology 5 
+BIOL 215 Introduction to Zoology 4 
+BIOL 230 Human Anatomy 4 
+BIOL 235 Human Physiology 4 
+BIOL 250 Introduction to Botany 4 
+CHEM 201 General Chemistry II – Lecture 3 
+CHEM 201L General Chemistry II – Laboratory 3 
+CISC 190 Java Programming 4 
+CISC 192 C/C++ Programming 4 
+MATH 104 Trigonometry 3 
+MATH 116 College and Matrix Algebra 3 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 122 Basic Techniques of Applied Calculus II 3 
+MATH 141 Precalculus 5 
+MATH 150 Calculus with Analytic Geometry I 5 
+MATH 151 Calculus with Analytic Geometry II 4 
+PHYS 125 General Physics 5 
+PHYS 126 General Physics II 5 
+PHYS 195 Mechanics 5 
+PHYS 196 Electricity and Magnetism 5 
+PHYS 197 Waves, Optics, and Modern Physics 5 
+PSYC 101 General Psychology 3 
+PSYC 258 Behavioral Science Statistics 3 
+SOCO 101 Principles of Sociology 3 
+total Units = 18 
+24	3009	3029	3052
+4
+24
+3009
+3029
+3052
+Biology for transfer Degree: this degree is accepted by some but not all cSU
+
+BIOL 210A Introduction to the Biological Sciences I 4 
+BIOL 210B Introduction to the Biological Sciences II 4 
+CHEM 200 General Chemistry I - Lecture 3 
+CHEM 200L General Chemistry I - Laboratory 2 
+CHEM 201 General Chemistry II - Lecture 3 
+CHEM 201L General Chemistry II - Laboratory 2 
+CHEM 231 Organic Chemistry I - Lecture 3 
+CHEM 231L Organic Chemistry I - Laboratory 2 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+or 
+MATH 122 Basic Techniques of Calculus II 3 
+or 
+MATH 150 Calculus with Analytic Geometry I 5 
+PHYS 125 General Physics 5 
+and 
+PHYS 126 General Physics II 5 
+or 
+PHYS 195 Mechanics 5 
+and 
+PHYS 196 Electricity and Magnetism 5 
+total Units = 36-38 
+
+
+
+25	3139	3146	3153
+4
+25
+3139
+3146
+3153
+1	0	0
+BIOL 107 General Biology – Lecture & Lab 4 
+BIOL 205 General Microbiology 5 
+BIOL 230 Human Anatomy 4 
+BIOL 235 Human Physiology 4 
+CHEM 100 Fundamentals of Chemistry 3 
+CHEM 100L Fundamentals of Chemistry Lab 1 
+total Units = 21 
+26	3299	3403	3422
+4
+26
+3299
+3403
+3422
+
+associate in Science for transfer Degree: Business Administration
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+Select at least three courses from the following: 
+BUSE 1001 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal Environment 3 
+BUSE 201 Business Organization and Management 3 
+CISC 181 Principles of Information Systems 4 
+MARK 100 Principles of Marketing 3 
+Select at least one course from the following: 
+BUSE 115 Statistics for Business 3 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+total Units = 26–29 
+
+
+27	3428	3440	3460
+4
+27
+3428
+3440
+3460
+associate of Science Degree: Business administration
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+Select at least three courses from the following: 
+BUSE 100 1 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal 
+Environment 3 
+BUSE 201 Business Organization and 
+Management 3 
+CISC 181 Principles of Information Systems 4 
+MARK 100 Principles of Marketing 3 
+Select at least one course from the following: 
+BUSE 115 Statistics for Business 3 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied 
+Calculus I 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+total Units = 26–29 
+28	3470	3487	3501
+4
+28
+3470
+3487
+3501
+associate in Science in Business administration for transfer Degree:
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal 
+Environment 3 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+CISC 181 Principles of Information Systems 4 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+Select at least one course from the following: 
+BUSE 115 Statistics for Business 3 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied 
+Calculus I 3 
+total Units = 27 
+29	3532	3596	3665
+4
+29
+3532
+3596
+3665
+associate of Science Degree: Business Management 27-30*
+BUSE 100 1 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+BUSE 201 Business Organization and 
+Management 3 
+CISC 181 Principles of Information Systems 4 
+or 
+CBTE 210 Computers in Business 3 
+1BUSE 100 is recommended as a frst semester course. 
+complete at least six (6) units from the following 
+business/business-related courses: 
+BUSE 140 Business Law and the Legal 
+Environment 3 
+BUSE 150 Human Relations in Business 3 
+BUSE 155 Managing the Small Business 3 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ADJU 205 Leadership Theory and Practice 3 
+ECON 121 Principles of Microeconomics 3 
+MARK 100 Principles of Marketing 3 
+complete at least one of the following 
+mathematics courses: 
+BUSE 101 Business Mathematics 3 
+BUSE 115 Statistics for Business 3 
+MATH 115 Gateway to Experimental Statistics 4 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+PSYC 258 Behavioral Science Statistics 3 
+Business Management 
+San Diego MiraMar College • 2017–2018 171 
+
+complete at least six (6) units from the following MATH 121 Basic Techniques of Applied 
+occupational courses: Calculus I 3 
+BUSE 120 Personal Financial Management 3 MATH 150 Calculus with Analytic Geometry I 5 
+BUSE 270 Business Internship / Work PSYC 258 Behavioral Science Statistics 3 
+Experience 1 - 4 complete at least six (6) units from the following ACCT 102 Basic Accounting 3 occupational courses: ACCT 150 Computer Accounting Applications 3 BUSE 120 Personal Financial Management 3CBTE 120 Beginning Microsoft Word 2 BUSE 270 Business Internship / Work CBTE 122 
+CBTE 127 
+CBTE 128 
+Intermediate Microsoft Word 3 
+Introduction to PowerPoint 2 
+Comprehensive Microsoft PowerPoint 3 ACCT 102 
+ACCT 150 Experience 
+Basic Accounting 
+Computer Accounting Applicatio1 - 4 
+3
+ns 3CBTE 140 Microsoft Excel 2 CBTE 120 2CBTE 143 
+CBTE 152 
+Intermediate Microsoft Excel 
+Beginning Microsoft Access 
+3
+2 CBTE 122 
+CBTE 127 
+Beginning Microsoft Word 
+Intermediate Microsoft Word 
+Introduction to PowerPoint 
+3
+2CBTE 153 Intermediate Microsoft Access 3 CBTE 128 Point 3CBTE 162 Web Page Creation 2 CBTE 140 
+Comprehensive Microsoft PowerMicrosoft Excel 2CBTE 165 
+CBTE 180 
+Webpage Creation with Dreamweaver 3 
+Microsoft Ofce 3 CBTE 143 
+CBTE 152 
+Intermediate Microsoft Excel 3 
+2LIBS 101 Information Literacy and Research 
+Skills 1 CBTE 153 
+Beginning Microsoft Access 
+Intermediate Microsoft Access 3 
+total Units = 27-30 
+30	3666	3668	3699
+4
+30
+3666
+3668
+3699
+associate of Science Degree: Business Management
+BUSE 1001 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+BUSE 201 Business Organization and 
+Management 3 
+CISC 181 Principles of Information Systems 4 
+or 
+CBTE 210 Computers in Business 3 
+1BUSE 100 is recommended as a frst semester course. 
+complete at least six (6) units from the following 
+business/business-related courses: 
+BUSE 140 Business Law and the Legal 
+Environment 3 
+BUSE 150 Human Relations in Business 3 
+BUSE 155 Managing the Small Business 3 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+ADJU 205 Leadership Theory and Practice 3 
+ECON 121 Principles of Microeconomics 3 
+MARK 100 Principles of Marketing 3 
+complete at least one of the following 
+mathematics courses: 
+BUSE 101 Business Mathematics 3 
+BUSE 115 Statistics for Business 3 
+MATH 115 Gateway to Experimental Statistics 4 
+MATH 119 Elementary Statistics 3 
+CBTE 162 Web Page Creation 2 
+CBTE 165 Webpage Creation with Dreamweaver 3 
+CBTE 180 Microsoft Ofce 3 
+LIBS 101 Information Literacy and Research Skills 1 
+total Units = 27-30 
+31	3717	3719	3739
+4
+31
+3717
+3719
+3739
+associate of Science Degree: Financial Services
+BANK 100 Introduction to Financial Services 3 
+BANK 102 Mortgage Brokerage and Banking 
+BANK 103 Introduction to Investments 3 
+ACCT 116A Financial Accounting 4 
+BUSE 101 Business Mathematics 3 
+BUSE 119 Business Communications 3 
+BUSE 120 Personal Financial Management 3 
+Select at least six units from the following: 
+ACCT 120 Federal Income Tax 3 
+ACCT 121 California Income Tax 1 
+BUSE 150 Human Relations in Business 3 
+BUSE 155 Managing the Small Business 3 
+BUSE 201 Business Organization and Management 3 
+MARK 100 Principles of Marketing 3 
+REAL 101 Real Estate Principles 3 
+REAL 115 Real Estate Finance I 
+total Units = 29 
+
+
+
+32	3822	3835	3856
+4
+32
+3822
+3835
+3856
+
+associate of Science Degree: chemistry Studies
+CHEM 200 General Chemistry I – Lecture 3 
+CHEM 200L General Chemistry I – Laboratory 2 
+CHEM 201 General Chemistry II – Lecture 3 
+CHEM 201L General Chemistry II – Laboratory 2 
+Select at least eight units from the following: 
+CHEM 231 Organic Chemistry I - Lecture 3 
+CHEM 231L Organic Chemistry I - Laboratory 2 
+CHEM 233 Organic Chemistry II - Lecture 3 
+CHEM 233L Organic Chemistry II - Laboratory 2 
+CHEM 251 Quantitative Analytical Chemistry 5 
+ASTR 101 Descriptive Astronomy 3 
+CISC 192 C/C++ Programming 4 
+GEOL 100 Physical Geology 3 
+GEOL 104 Earth Science 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+MATH 151 Calculus with Analytic Geometry II 4 
+MATH 252 Calculus with Analytic Geometry III 4 
+PHYS 195 Mechanics 5 
+PHYS 196 Electricity and Magnetism 5 
+PHYS 197 Waves, Optics and Modern Physics 5 
+total Units = 18 
+
+
+33	4244	4254	4292
+4
+33
+4244
+4254
+4292
+associate of Science Degree: child Development
+CHIL 101 
+CHIL 111 
+CHIL 121 
+CHIL 131 
+CHIL 141 
+CHIL 180 
+CHIL 151 
+Human Growth and Development 
+Curriculum: Music/Motor Skills 
+Creative Art 
+Curriculum: Language/Science 
+The Child, Family and Community 
+Nutrition, Health and Safety for 
+Children 
+Program Planning 
+3
+3
+3
+3
+3
+3
+3
+concurrent enrollment in (2–4 units total): 
+CHIL 270 Work Experience 1–4 
+or 
+CHIL 275 Supervised Field Study 1–3 
+Select one of the following three options: 
+CHIL 160 Observing and Understanding 
+Children 
+and 
+CHIL 161 Observation & Issues in Child 
+Development 
+or 
+CHIL 165 Children with Special Needs 
+or 
+CHIL 175 Infant–Toddler Growth and 
+Development 
+total Units = 26–29 
+34	4297	4308	4360
+4
+34
+4297
+4308
+4360
+associate of Science Degree: child Development
+CHIL 101 
+CHIL 111 
+CHIL 121 
+CHIL 131 
+CHIL 141 
+CHIL 180 
+CHIL 151 
+CHIL 202 
+CHIL 210 
+CHIL 215 
+Human Growth and Development 
+Curriculum: Music/Motor Skills 
+Creative Art 
+Curriculum: Language/Science 
+The Child, Family and Community 
+Nutrition, Health and Safety for 
+Children 
+Program Planning 
+Administration of Early Childhood 
+Programs 
+Supervision of Early Childhood 
+Programs 
+Adult Supervision and Mentoring in 
+Early Childhood Settings 
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+concurrent enrollment in (2–4 units total): 
+CHIL 270 Work Experience 1–4 
+or 
+CHIL 275 Supervised Field Study 1–3 
+Select one of the following three options: 
+CHIL 160 Observing and Understanding 
+178 San Diego MiraMar College • 2017–2018 
+
+Children 2 
+and 
+CHIL 161 Observations and Issues in Child 
+Development 2 
+or 
+CHIL 165 Children with Special Needs 3 
+or 
+CHIL 175 Infant–Toddler Growth and 
+Development 3 
+total Units = 35–38 
+35	4366	4383	4426
+4
+35
+4366
+4383
+4426
+associate of arts Degree: Human Development Studies
+CHIL 101 Human Growth and Development 3 
+PSYC 101 General Psychology 3 
+Select at least 12 units from the following: 
+ANTH 103 Introduction to Cultural Anthropology 3 
+BIOL 107 General Biology - Lecture and Laboratory 4 
+BIOL 210A Introduction to the Biological Sciences I 4 
+BIOL 210B Introduction to the Biological Sciences II 4 
+BIOL 230 Human Anatomy 3 
+BIOL 235 Human Physiology 4 
+BLAS 140A History of the U.S., Black Perspectives 3 
+BLAS 140B History of the U.S., Black Perspectives 3 
+CHIL 103 Lifespan Growth and Development 3 
+CHIL 111 Curriculum: Music/Motor Skills 3 
+CHIL 121 Creative Art 3 
+CHIL 131 Curriculum: Language/Science 3 
+CHIL 141 The Child, Family and Community 3 
+CHIL 151 Program Planning 3 
+CHIL 160 Observing and Understanding 
+Children 2 
+CHIL 162 Observing and Guiding Child Behavior 3 
+CHIL 175 Infant–Toddler Growth and Development 3 
+CHIL 176 Principles of Infant/Toddler Caregiving 3 
+CHIL 180 Nutrition, Health and Safety for Children 3 
+CISC 190 Java Programming 4 
+CISC 192 C/C++ Programming 4 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+MATH 210A Concepts of Elementary School Mathematics I 3 
+NUTR 150 Nutrition 3 
+PHIL 101 Symbolic Logic 3 
+PSYC 135 Marriage and Family Relations 3 
+PSYC 258 Behavioral Science Statistics 3 
+PSYC 260 Introduction to Physiological 
+Psychology 3 
+SOCO 101 Principles of Sociology 3 
+total Units = 18 
+36	4737	4745	4760
+4
+36
+4737
+4745
+4760
+associate of Science Degree: computer Business technology
+CBTE 114 Introduction to Microsoft Windows 
+CBTE 122 Intermediate Microsoft Word 3 
+CBTE 128 Comprehensive Microsoft PowerPoint 3 
+CBTE 143 Intermediate Microsoft Excel 3 
+CBTE 153 Intermediate Microsoft Access 3 
+CBTE 165 Webpage Creation with Dreamweaver 3 
+CBTE 170 Desktop Publishing 2 
+CBTE 180 Microsoft Ofce 3 
+CBTE 205 Records Management 3 
+CBTE 210 Computers in Business 3 
+BUSE 101 Business Mathematics 3 
+BUSE 119 Business Communications 3 
+total Units = 33 
+37	4847	4850	4861
+4
+37
+4847
+4850
+4861
+associate of Science Degree: computer and Information
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law & the Legal Environment 3 
+CISC 181 Principles of Information Systems 4 
+CISC 186 Visual Basic Programming 4 
+ECON 120 Principles of Macroeconomics 3 
+MATH 119 Elementary Statistics 3 
+CISC Elective(s)* 3 
+total Units = 31 
+38	5258	5262	5288
+4
+38
+5258
+5262
+5288
+associate of Science Degree: Diesel technology
+DIES 100 Introduction to Diesel Technology 2 
+DIES 101 Heavy Duty Truck, Advanced Transportation, Equipment Preventive Maintenance and Inspections 2 
+DIES 102 Heavy Duty Truck and Heavy 
+Equipment Heating and Air Conditioning 2 
+DIES 105 Measuring Tools and Applied Mathematics 2 
+DIES 123 Diesel Engines C 2 
+DIES 138 Electrical Systems 3 
+DIES 144 Electronics for Diesel Technology 3 
+DIES 155 Air Brake Systems 3 
+DIES 170 Truck Drive Axles and Specifcations 3 
+DIES 175 Truck Chassis R&R 3 
+DIES 180 Steering, Suspension, and Driveline Systems 3 
+DIES 200 Mobile Hydraulic Systems 3 
+Select two courses from: 
+DIES 121 Diesel Engines A or 
+DIES 122 Diesel Engines B or 
+DIES 124 Diesel Engines D 
+Select one course from: 
+DIES 160 Heavy Duty Manual Transmissions or 
+DIES 165 Truck Automatic Transmissions 3 
+total Units = 48 
+39	5296	5300	5328
+4
+39
+5296
+5300
+5328
+associate of Science Degree: Diesel technology
+DIES 100 Introduction to Diesel Technology 2 
+DIES 101 Heavy Duty Truck, Advanced 
+Transportation, Equipment Preventive 
+Maintenance and Inspections 2 
+188 San Diego MiraMar College • 2017–2018 
+
+DIES 102 Heavy Duty Truck and Heavy 
+Equipment Heating and Air 
+Conditioning 2 
+DIES 105 Measuring Tools and Applied 
+Mathematics 2 
+DIES 123 Diesel Engines C 2 
+DIES 138 Electrical Systems 3 
+DIES 144 Electronics for Diesel Technology 3 
+DIES 160 Heavy Duty Manual Transmissions 3 
+DIES 200 Mobile Hydraulic Systems 3 
+DIES 210 Brakes, Final Drives and Steering Systems 3 
+DIES 220 Undercarriage 3 
+DIES 230 Heavy Equipment Transmissions 3 
+DIES 240 Equipment Chassis R&R 3 
+Select two courses from: 
+DIES 121 Diesel Engines A 7 
+or 
+DIES 122 Diesel Engines B 7 
+or 
+DIES 124 Diesel Engines D 7 
+total Units = 48 
+40	5330	5347	5357
+4
+40
+5330
+5347
+5357
+for the associate Degree on page 86. Electives as needed to meet minimum of 60 units
+AUTO 78 Suspension, Steering and Handling 4 
+AUTO 56 Engine and Related Systems 4 
+DIES 100 Introduction to Diesel Technology 2 
+DIES 135 Applied Failure Analysis 3 
+DIES 137 Diesel Fuel Injection Systems 2 
+DIES 138 Electrical Systems 3 
+DIES 155 Air Brake Systems 3 
+DIES 160 Heavy Duty Manual Transmissions 3 
+DIES 170 Truck Drive Axles and Specifcations 3 
+total Units = 27 
+41	5358	5361	5371
+4
+41
+5358
+5361
+5371
+associate of Science Degree: San Diego city civil Service
+AUTO 78 Suspension, Steering and Handling 4 
+AUTO 56 Engine and Related Systems 4 
+DIES 100 Introduction to Diesel Technology 2 
+DIES 135 Applied Failure Analysis 3 
+DIES 137 Diesel Fuel Injection Systems 2 
+DIES 138 Electrical Systems 3 
+DIES 155 Air Brake Systems 3 
+DIES 160 Heavy Duty Manual Transmissions 3 
+DIES 170 Truck Drive Axles and Specifcations 3 
+total Units = 27 
+42	5408	5411	5425
+4
+42
+5408
+5411
+5425
+associate of Science Degree: San Diego transit
+DIES 100 Introduction to Diesel Technology 2 
+DIES 101 Heavy Duty Truck, Advanced Transportation, Equipment Preventive Maintenance and Inspections 2 
+DIES 102 Heavy Duty Truck and Heavy Equipment Heating and Air Conditioning 2 
+DIES 105 Measuring Tools and Applied Mathematics 2 
+DIES 131 Alternative-Fueled Engine Overhaul 4 
+DIES 135 Applied Failure Analysis 3 
+DIES 138 Electrical Systems 3 
+DIES 144 Electronics for Diesel Technology 3 
+DIES 155 Air Brake Systems 3 
+total Units = 24 
+43	5522	5538	5594
+4
+43
+5522
+5538
+5594
+associate in arts in Economics for transfer Degree:
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+MATH 119 Elementary Statistics or 
+PSYC 258 Behavioral Science Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+or 
+MATH 150 Calculus with Analytic Geometry I 5 
+Select at least 3 units from the following courses 
+(not already selected above): 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal Environment 3 
+CBTE 210 Computers in Business 3 
+COMS 160 Argumentation 3 
+CISC 181 Principles of Information Systems 4 
+CISC 186 Visual Basic Programming 4 
+ENGL 105 Composition and Literature 3 
+ENGL 205 Critical Thinking and Intermediate Composition 3 
+MATH 104 Trigonometry 3 
+MATH 116 College and Matrix Algebra 3 
+MATH 122 Basic Techniques of Calculus II 3 
+MATH 141 Precalculus 5 
+MATH 151 Calculus with Analytic Geometry II 4 
+MATH 252 Calculus with Analytic Geometry III 4 
+MATH 255 Diferential Equations 3 
+PHIL 205 Critical Thinking and Writing in Philosophy 3 
+SOCO 101 Principles of Sociology 3 
+Select one of the following courses (3–5 units) 
+not already selected above: 
+ACCT 116A Financial Accounting 4 
+ACCT 116B Managerial Accounting 4 
+BUSE 119 Business Communications 3 
+BUSE 140 Business Law and the Legal Environment 3 
+CBTE 210 Computers in Business 3 
+COMS 160 Argumentation 3 
+CISC 181 Principles of Information Systems 4 
+CISC 186 Visual Basic Programming 4 
+ENGL 105 Composition and Literature 3 
+ENGL 205 Critical Thinking and Intermediate Composition 3 
+MATH 104 Trigonometry 3 
+MATH 116 College and Matrix Algebra 3 
+MATH 122 Basic Techniques of Calculus II 3 
+MATH 141 Precalculus 5 
+MATH 151 Calculus with Analytic Geometry II 4 
+MATH 252 Calculus with Analytic Geometry III 4 
+MATH 255 Diferential Equations 3 
+PHIL 205 Critical Thinking and Writing in Philosophy 3 
+SOCO 101 Principles of Sociology 3 
+total Units = 18–24 
+44	5818	5832	5859
+4
+44
+5818
+5832
+5859
+associate of arts Degree: English/literature Studies
+ENGL 101 Reading and Composition or 
+ENGL 105 Composition and Literature 3 
+*ENGL 205 Critical Thinking and Intermediate Composition 3 
+Select 12 units from the following: 
+BLAS 140A History of the U.S., Black Perspectives 3 
+CHIL 101 Human Growth and Development 3 
+COMS 103 Oral Communication 3 
+ENGL 208 Introduction to Literature 3 
+ENGL 210 American Literature I 3 
+ENGL 211 American Literature II 3 
+ENGL 215 English Literature I: 800 – 1799 3 
+ENGL 216 English Literature II: 1800 – Present 3 
+ENGL 220 Masterpieces of World Literature I: 
+1500 BCE – 1600 CE 3 
+ENGL 221 Masterpieces of World Literature II: 
+1600 – Present 3 
+ENGL 230 Asian American Literature 3 
+ENGL 237 Women in Literature 3 
+ENGL 249 Introduction to Creative Writing I 3 
+HIST 109 History of the United States I 3 
+HIST 141 Women in the United States History I 3 
+HUMA 201 Mythology 3 
+JOUR 202 Introduction to Mass Communication 3 
+POLI 102 The American Political System 3 
+PSYC 101 General Psychology 3 
+total Units = 18 
+45	5885	5903	5936
+4
+45
+5885
+5903
+5936
+associate in arts in English for transfer Degree:
+ENGL 205 Critical Thinking and Intermediate Composition 
+ENGL 208 Introduction to Literature 
+ENGL 215 English Literature I: 800 – 1799 
+general Education: In addition to the courses listed 
+ENGL 216 English Literature II: 1800 – Present 
+above, students must complete one of the general 
+education options listed on page 88: 
+Select one course (three units) from the 
+following: (It is recommended that students select 
+courses that meet lower division major preparation 
+requirements for their transfer university): 
+ENGL 210 American Literature I 3 
+ENGL 211 American Literature II 3 
+Select one course (three units minimum) from 
+the following if not selected from above (It is 
+recommended that students select courses that meet 
+lower division major preparation requirements for their 
+transfer university): 
+ENGL 101 Reading and Composition 3 
+ENGL 105 Composition and Literature 3 
+ENGL 209 Literary Approaches to Film 3 
+ENGL 210 American Literature I 3 
+ENGL 211 American Literature II 3 
+ENGL 220 Masterpieces of World Literature I: 
+1500 BCE – 1600 CE 3 
+ENGL 221 Masterpieces of World Literature II: 
+1600 – Present 3 
+ENGL 230 Asian American Literature 3 
+ENGL 237 Women in Literature 3 
+ENGL 249 Introduction to Creative Writing I 3 
+total Units = 18 
+46	6130	6144	6299
+4
+46
+6130
+6144
+6299
+associate of Science Degree: Exercise and Nutritional Sciences
+Select at least two courses from the following: 
+EXSC 241B Introduction to Kinesiology 3 
+EXSC 242B Care and Prevention of Injuries 3 
+HEAL 101 Health and Life-Style 3 
+NUTR 150 Nutrition 3 
+NUTR 153 Cultural Foods 3 
+NUTR 155 Advanced Nutrition 3 
+NUTR 170 Nutrition and Fitness 3 
+Select at least one course from the following: 
+BIOL 107 General Biology – Lecture and 
+Laboratory 4 
+BIOL 210A Introduction to the Biological 
+Sciences I 4 
+BIOL 230 Human Anatomy 4 
+BIOL 235 Human Physiology 4 
+Select at least one course and the remainder of 
+units needed to meet the minimum of 18 from 
+the following: 
+EXSC 241B Introduction to Kinesiology 3 
+EXSC 242B Care and Prevention of Injuries 3 
+HEAL 101 Health and Life-Style 3 
+NUTR 150 Nutrition 3 
+NUTR 153 Cultural Foods 3 
+NUTR 155 Advanced Nutrition 3 
+NUTR 170 Nutrition and Fitness 3 
+NUTR 180 Nutrition and Diet Therapy 3 
+BIOL 107 General Biology – Lecture and Laboratory 4 
+BIOL 130 Human Heredity 3 
+BIOL 135 Biology of Human Nutrition 3 
+BIOL 160 Elements of Human Anatomy and Physiology 4 
+BIOL 205 General Microbiology 5 
+BIOL 210A Introduction to the Biological Sciences I 4 
+BIOL 210B Introduction to the Biological Sciences II 4 
+BIOL 230 Human Anatomy 4 
+BIOL 235 Human Physiology 4 
+CHEM 100 Fundamentals of Chemistry 3 
+CHEM 100L Fundamentals of Chemistry Laboratory 1 
+CHEM 103 General, Organic, and Biological Chemistry 5 
+CHEM 130 Introduction to Organic and Biological Chemistry 3 
+CHEM 130L Introduction to Organic and Biological Chemistry Laboratory 1 
+CHEM 200 General Chemistry I – Lecture 3 
+CHEM 200L General Chemistry I – Laboratory 2 
+CHEM 201 General Chemistry II – Lecture 3 
+CHEM 201L General Chemistry II – Laboratory 2 
+MATH 116 College and Matrix Algebra 3 
+MATH 119 Elementary Statistics 3 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 141 Precalculus 5 EXSC 147B Kickboxing II-Beginning 0.5 – 1 
+MATH 150 Calculus with Analytic Geometry I 5 
+PHYS 125 General Physics 5 
+PSYC 101 General Psychology 3 
+PSYC 258 Behavioral Science Statistics 3 
+PSYC 260 Introduction to Physiological Psychology 3 
+SOCO 101 Principles of Sociology 3 
+EXSC 113A Swimming I 0.5 – 1 
+EXSC 113B Swimming II 0.5 – 1 
+EXSC 113C Swimming III 0.5 – 1 
+EXSC 113D Swimming IV 0.5 – 1 
+EXSC 114A Aquatic Fitness I 0.5 – 1 
+EXSC 114B Aquatic Fitness II 0.5 – 1 
+EXSC 114C Aquatic Fitness III 0.5 – 1 
+EXSC 114D Aquatic Fitness IV 0.5 – 1 
+EXSC 115A Water Exercise I 0.5 – 1 
+EXSC 115B Water Exercise II 0.5 – 1 
+EXSC 115C Water Exercise III 0.5 – 1 
+EXSC 115D Water Exercise IV 0.5 – 1 
+EXSC 124A Aerobic and Core Conditioning I 0.5 – 1 
+EXSC 124B Aerobic and Core Conditioning II 0.5 – 1 
+EXSC 124C Aerobic and Core Conditioning III 0.5 – 1 
+EXSC 124D Aerobic and Core Conditioning IV 0.5 – 1 
+EXSC 125A Aerobic Dance I 0.5 – 1 
+EXSC 147C Kickboxing III-Intermediate 0.5 – 1 
+EXSC 147D Kickboxing IV-Advanced 0.5 – 1 
+EXSC 148A Martial Arts I-Fundamental 0.5 – 1 
+EXSC 125B Aerobic Dance II 0.5 – 1 
+EXSC 125C Aerobic Dance III 0.5 – 1 
+EXSC 125D Aerobic Dance IV 0.5 – 1 
+EXSC 126A Cardio Conditioning I 0.5 – 1 
+EXSC 126B Cardio Conditioning II 0.5 – 1 
+EXSC 126C Cardio Conditioning III 0.5 – 1 
+EXSC 126D Cardio Conditioning IV 0.5 – 1 
+EXSC 135A Individual Conditioning I – Fundamentals 0.5 – 1 
+EXSC 135B Individual Conditioning II – Beginning 0.5 – 1 
+EXSC 135C Individual Conditioning III – Intermediate 0.5 – 1 
+EXSC 135D Individual Conditioning IV – Advanced 0.5 – 1 
+EXSC 136A Of-Season Conditioning for Sport I 0.5 – 1 
+EXSC 136B Of-Season Conditioning for Sport II 0.5 – 1 
+EXSC 139A Weight Training I 0.5 – 1 
+EXSC 139B Weight Training II 0.5 – 1 
+EXSC 139C Weight Training III 0.5 – 1 
+EXSC 139D Weight Training IV 0.5 – 1 
+EXSC 145A Yoga I-Fundamentals of Yoga 0.5 – 1 
+EXSC 145B Yoga II-Beginning Yoga 0.5 – 1 
+EXSC 145C Yoga III-Intermediate 0.5 – 1 
+EXSC 145D Yoga IV - Advanced Level 0.5 – 1 
+EXSC 147A Kickboxing I-Fundamental 0.5 – 1 
+EXSC 148B Martial Arts II-Beginning 0.5 – 1 
+EXSC 148C Martial Arts III-Intermediate 0.5 – 1 
+EXSC 148D Martial Arts IV-Advanced 0.5 – 1 
+EXSC 154A Badminton I 0.5 – 1 
+EXSC 154B Badminton II 0.5 – 1 
+EXSC 154C Badminton III 0.5 – 1 
+EXSC 154D Badminton IV 0.5 – 1 
+EXSC 158A Basketball I 0.5 – 1 
+EXSC 158B Basketball II 0.5 – 1 
+EXSC 158C Basketball III 0.5 – 1 
+EXSC 158D Basketball IV 0.5 – 1 
+EXSC 174A Soccer I 0.5 – 1 
+EXSC 174B Soccer II 0.5 – 1 
+EXSC 174C Soccer III 0.5 – 1 
+EXSC 174D Soccer IV 0.5 – 1 
+EXSC 176A Softball I 0.5 – 1 
+EXSC 176B Softball II 0.5 – 1 
+EXSC 176C Softball III 0.5 – 1 
+EXSC 176D Softball IV 0.5 – 1 
+EXSC 178A Tennis I 0.5 – 1 
+EXSC 178B Tennis II 0.5 – 1 
+EXSC 178C Tennis III 0.5 – 1 
+EXSC 178D Tennis IV 0.5 – 1 
+EXSC 182A Volleyball I 0.5 – 1 
+EXSC 182B Volleyball II 0.5 – 1 
+EXSC 182C Volleyball III 0.5 – 1 
+EXSC 182D Volleyball IV 0.5 – 1 
+EXSC 184A Water Polo I 0.5 – 1 
+EXSC 184B Water Polo II 0.5 – 1 
+EXSC 184C Water Polo III 0.5 – 1 
+EXSC 184D Water Polo IV 0.5 – 1 
+EXSC 204 Intercollegiate Basketball I 2 – 3.5 
+EXSC 205 Intercollegiate Basketball II 2 – 3.5 
+EXSC 214 Intercollegiate Soccer I 2 – 3.5 
+EXSC 215 Intercollegiate Soccer II 2 – 3.5 
+EXSC 216 Intercollegiate Softball I 2 – 3.5 
+EXSC 220 Intercollegiate Tennis I 2 – 3.5 
+EXSC 221 Intercollegiate Tennis II 2 – 3.5 
+EXSC 226 Intercollegiate Water Polo I 2 – 3.5 
+EXSC 227 Intercollegiate Water Polo II 2 – 3.5 
+total Units = 18 
+47	6413	6434	6482
+4
+47
+6413
+6434
+6482
+associate in arts in Kinesiology for transfer Degree:
+BIOL 230 Human Anatomy 4 
+BIOL 235 Human Physiology* 4 
+EXSC 241B Introduction to Kinesiology 3 
+Select a maximum of one course from any three 
+of the following areas for a minimum of 3 units: 
+aquatics 
+EXSC 113A Swimming I 1 
+EXSC 114A Aquatic Fitness I 1 combatives 
+ADJU 128A Defensive Tactics I 1 
+EXSC 147A Kickboxing I – Fundamental 1 
+EXSC 148A Martial Arts I – Fundamental 1 
+Dance 
+EXSC 125A Aerobic Dance I* 1 
+EXSC 125B Aerobic Dance II 1 
+EXSC 125C Aerobic Dance III 1 
+EXSC 125D Aerobic Dance IV 1 
+Fitness 
+EXSC 126A Cardio Conditioning I 1 
+EXSC 126B Cardio Conditioning II 1 
+EXSC 126C Cardio Conditioning III 1 
+EXSC 126D Cardio Conditioning IV 1 
+EXSC 135A Individual Conditioning I – 
+Fundamentals 1 
+EXSC 139A Weight Training I 1 
+EXSC 139B Weight Training II 1 
+EXSC 139C Weight Training III 1 
+EXSC 139D Weight Training IV 1 
+Individual Sports 
+EXSC 154A Badminton I 1 
+EXSC 178A Tennis I 1 
+team Sports 
+EXSC 158A Basketball I 1 
+EXSC 174A Soccer I 1 
+EXSC 176A Softball I 1 
+EXSC 182A Volleyball I 1 
+EXSC 234A Theories and Strategies of 
+Soccer I
+Select two of the following courses (minimum 
+6 units) 
+MATH 119 Elementary Statistics* or 
+PSYC 258 Behavioral Science Statistics* 3 
+CHEM 200 General Chemistry I – Lecture* 3 
+and 
+CHEM 200L General Chemistry I – Laboratory* 2 
+PHYS 125 General Physics* or 
+PHYS 195 Mechanics* 5 
+total Units = 22–24 
+48	6533	6701	6708
+4
+48
+6533
+6701
+6708
+associate of Science Degree: Fire Prevention 19.5*
+EMGM 105A Emergency Medical Technician - National Registry 7 
+FIPT 160 Introduction to Open Water Lifeguarding 3 
+FIPT 365 All Terrain Vehicle Operations - 
+Lifeguards 0.5 
+total Units = 10.5 
+
+
+
+49	6847	6850	6862
+4
+49
+6847
+6850
+6862
+associate of Science Degree: Fire Protection technology
+ENGL 101 Reading and Composition 3 
+FIPT 101 Fire Protection Organization 3 
+FIPT 102 Fire Prevention Technology 3 
+FIPT 103 Fire Protection Equipment and Systems 3 
+FIPT 104 Building Construction for Fire Protection 3 
+FIPT 105 Fire Behavior and Combustion 3 
+FIPT 342 Company Ofcer 2C: Fire Investigation 
+and Inspection for Company Ofcers 0.5 
+ADJU 357A 832 PC Laws of Arrest 1 
+total Units = 19.5 
+
+
+
+
+
+50	6863	6866	6897
+4
+50
+6863
+6866
+6897
+
+
+associate of Science Degree: Fire Protection technology
+EMGM 105AEmergency Medical Technician - National Registry 
+FIPT 323C Hazardous Materials Incident Commander 0.5 
+FIPT 324D Intermediate Wildland Fire Behavior S-290 0.5 
+FIPT 340 Company Ofcer 2A: Human Resource Management for Company Ofcers 0.5 
+FIPT 341 Company Ofcer 2B: General Administration Functions for Company Ofcers 0.5 
+FIPT 342 Company Ofcer 2C: Fire Investigation and Inspection for Company Ofcers 0.5 
+FIPT 343 Company Ofcer 2D: All Risk Command Operations for Company Ofcers 0.5 
+FIPT 344 Company Ofcer 2E: Wildland Incident Operations for Company Ofcers 0.5 
+FIPT 345 Instructor I: Instructional Methodology 0.5 
+Select one of the following frefghter 1 academy 
+options: 
+FIPT 381S San Diego City Basic Firefghter I 
+Academy 13 
+or 
+FIPT 381F Heartland Fire Training Regional 
+Firefghter I Academy 9 
+and 
+FIPT 381G Firefghter I Academy Skills Review and 
+Certifcation 1.5 
+total Units = 21.5-24 
+51	6898	6901	6924
+4
+51
+6898
+6901
+6924
+associate of Science Degree: Fire Protection technology
+FIPT 150A Introduction to Fire Suppression and Maintenance Manipulative Tasks (Beginning) 1.5 
+FIPT 101 Fire Protection Organization 3 
+FIPT 102 Fire Prevention Technology 3 
+FIPT 103 Fire Protection Equipment and Systems 3 
+FIPT 104 Building Construction for Fire Protection 3 
+FIPT 107 Fire Fighting Tactics and Strategy 3 
+FIPT 109 Fire Service Hydraulics 3 
+FIPT 110A Wildland Fire Control 2 
+FIPT 120 Firefghter Safety and Survival 3 
+FIPT 322B Confned Space Rescue Awareness 0.2 
+FIPT 323B Hazmat Emergency Response First Responder Operational 0.5 
+FIPT 324A Basic Incident Command System (NIMS 
+ICS 100 & 200) 0.5 
+EMGM 105AEmergency Medical Technician - National Registry 7 
+total Units = 35.7 
+
+
+52	6925	6928	7001
+4
+52
+6925
+6928
+7001
+
+
+associate of Science Degree: Fire Protection technology
+EMGM 105A Emergency Medical Technician – National Registry 7 
+FIPT 366 Seamanship - Rescue Boat Handling 1 
+FIPT 367A Scuba for Emergency Services I 1.5 
+FIPT 367B Scuba for Emergency Services II 1 
+FIPT 160 
+FIPT 365 
+FIPT 366A 
+ADJU 357A 
+Select 6 unADJU 102 
+ADJU 106 
+ADJU 128A 
+ADJU 128B 
+ADJU 128C 
+ADJU 128D 
+ADJU 160 
+ADJU 167 
+ADJU 210 
+ADJU 230 
+ADJU 357B 
+EMGM 050 
+EMGM 106 
+FIPT 115 
+FIPT 121 
+FIPT 168 
+FIPT 309B 
+FIPT 311A 
+FIPT 324B 
+FIPT 324C 
+FIPT 326A 
+Introduction to Open Water 
+Lifeguarding 3 
+All Terrain Vehicle Operations – 
+Lifeguards 0.5 
+Personal Watercraft Operations 0.5 
+832 PC Laws of Arrest 1 
+its from the following: 
+Criminal Law I 3 
+Diversity and Community Relations 3 
+Defensive Tactics I 1 
+Defensive Tactics II 1 
+Defensive Tactics III 1 
+Defensive Tactics IV 1 
+Criminal Law II 3 
+Report Writing 3 
+Rules of Evidence 3 
+Constitutional Law I 3 
+832 PC Firearms 0.5 
+CPR for Health Care Providers 0.5 
+Emergency Medical Technician – 
+Defbrillation/Combitude 0.5 
+Low Angle Rope Rescue 0.5 
+Vertical Rescue 1.5 
+Lifeguard Beach Management 3.5 
+Emergency Medical Care of the Sick 
+and Injured 1 
+Swiftwater Rescue Technician I 0.5 
+I-300: Intermediate ICS 0.5 
+I-400: Advanced ICS 1 
+Training Instructor 1A: Cognitive 
+Lesson Delivery 0.5 
+FIPT 105 Fire Behavior and Combustion 3 
+FIPT 326B Training Instructor 1B: Psychomotor 
+Lesson Delivery 0.5 
+FIPT 326C Training Instructor 1C: Instructional 
+Development Techniques 0.5 
+FIPT 332A Confned Space Rescue Technician 0.5 
+FIPT 332B Rescue Systems 1: Basic Rescue Skills 0.5 
+FIPT 360A Advanced Open Water Lifeguard 
+Training 3.5 
+FIPT 363 Refresher, Open Water Lifeguard 0.5 
+FIPT 364 Marine Firefghting 1 
+total Units = 18 
+53	7012	7113	7114
+4
+53
+7012
+7113
+7114
+associate of arts Degree: Graphics 33*
+total Units = 15 
+54	7170	7180	7211
+4
+54
+7170
+7180
+7211
+
+
+associate of arts Degree: graphics
+ARTF 150A Two-Dimensional Design 3 
+GRFX 050 Beginning Graphics, Communicating 
+With Computers or 
+ARTF 150B Beginning Graphic Design 3 
+ARTF 155A Freehand Drawing I 3 
+GRFX 158 Survey of Graphics Technology or 
+ARTG 118 Graphic Design History 3 
+GRFX 160 Vector Art 01: Illustration 3 
+GRFX 170 Raster Art 01: Image Editing 3 
+GRFX 180 Composition 01: Page Building Tools or 
+ARTG 126 Intermediate Digital Media 3 
+GRFX 181 Projects 01: Multi-modal Productions 3 
+ARTG 106 Typography 3 
+complete 6 units from the following list of 
+elective courses: 
+GRFX 190 Ethical Business Practices for Creative 
+Services 
+3
+GRFX 192 Graphic Business Promotion: Creative 
+Services Career Management 3 
+ARTF 155B Freehand Drawing II 3 
+ARTF 198A Introduction to Printmaking I 3 
+ARTF 280D Digital Art Studio Lab 1 
+ARTG 133 Intermediate Graphic Design II (Identity 
+Systems and Packaging) 3 
+ARTG 270 Work Experience in Graphic Design 1 - 4 
+ARTG 290 Independent Study in Graphic 
+Design 1 - 3 
+BUSE 100 Introduction to Business 3 
+BUSE 119 Business Communications 3 
+total Units = 33 
+
+
+55	7305	7323	7369
+4
+55
+7305
+7323
+7369
+
+
+associate in arts in History for transfer Degree:
+HIST 100 World History I* 3 
+HIST 101 World History II* 3 
+HIST 109 
+HIST 110 
+History of the United States I* 
+History of the United States II* 
+
+
+
+3
+3
+
+
+Select one of the following courses: 
+(It is recommended that students select courses that 
+meet lower division major preparation requirements 
+for their transfer university; a Spanish course is strongly 
+recommended for students planning to transfer to San 
+Diego State University) 
+HIST 120 Introduction to Asian Civilizations* 3 
+HIST 121 Asian Civilizations in Modern Times* 3 
+GEOG 102 Cultural Geography* 3 
+GEOG 104 World Regional Geography* 3 
+SPAN 101 First Course in Spanish* 5 
+SPAN 102 Second Course in Spanish* 5 
+SPAN 201 Third Course in Spanish* 5 
+SPAN 202 Fourth Course in Spanish* 5 
+Select one of the following courses: 
+(It is recommended that students select courses that 
+meet lower division major preparation requirements for 
+their transfer university) 
+HIST 105 Introduction to Western Civilization I* 3 
+HIST 106 Introduction to Western Civilization II* 3 
+HIST 120 Introduction to Asian Civilizations* 3 
+HIST 121 Asian Civilizations in Modern Times* 3 
+ANTH 103 Introduction to Cultural Anthropology* 3 
+ARTF 107 Contemporary Art* 3 
+ARTF 109 Modern Art* 3 
+ARTF 110 Art History: Prehistoric to Gothic* 3 
+ARTF 111 Art History: Renaissance to Modern* 3 
+GEOG 102 Cultural Geography* 3 
+GEOG 104 World Regional Geography* 3 
+MUSI 103 History of Rock Music* 3 
+MUSI 111 Jazz - History and Development* 3 
+POLI 101 Introduction to Political Science* 3 
+PSYC 101 General Psychology* 3 
+SOCO 101 Principles of Sociology* 3 
+total Units = 18–20 
+56	7391	7405	7500
+4
+56
+7391
+7405
+7500
+associate of arts Degree: Social and Behavioral Sciences
+Select at least 12 units from the following social and behavioral sciences core courses: 
+ADJU 101 Introduction to Administration of Justice 3 
+ADJU 102 Criminal Law I 3 
+ADJU 106 Diversity and Community Relations 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 193 Concepts of Criminal Law 3 
+ADJU 205 Leadership Theory and Practice 3 
+ADJU 210 Rules of Evidence 3 
+ADJU 230 Constitutional Law I 3 
+ANTH 102 Introduction to Physical Anthropology 3 
+ANTH 103 Introduction to Cultural Anthropology 3 
+ANTH 104 Laboratory in Physical Anthropology 1 
+ANTH 107 Introduction to Archaeology 3 
+BLAS 140A History of the U.S., Black Perspectives 3 
+BLAS 140B History of the U.S, Black Perspectives 3 
+ECON 120 Principles of Macroeconomics 3 
+ECON 121 Principles of Microeconomics 3 
+FILI 100 Filipino American Experience 3 
+GEOG 101 Physical Geography 3 
+GEOG 101L Physical Geography Laboratory 1 
+GEOG 102 Cultural Geography 3 
+GEOG 104 World Regional Geography 3 
+HIST 100 World History I 3 
+HIST 101 World History II 3 
+HIST 105 Introduction to Western Civilization I 3 
+HIST 106 Introduction to Western Civilization II 3 
+HIST 109 History of the United States I 3 
+HIST 110 History of the United States II 3 
+HIST 115A History of the Americas I 3 
+HIST 115B History of the Americas II 3 
+HIST 120 Introduction to Asian Civilizations 3 
+HIST 121 Asian Civilizations in Modern Times 3 
+HIST 141 Women in United States History I 3 
+HIST 142 Women in United States History II 3 
+POLI 101 Introduction to Political Science 3 
+POLI 102 The American Political System 3 
+POLI 103 Comparative Politics 3 
+POLI 140 Contemporary International Politics 3 
+PSYC 101 General Psychology 3 
+PSYC 133 Psychology of Women 3 
+PSYC 135 Marriage and Family Relations 3 
+PSYC 166 Introduction to Social Psychology 3 
+PSYC 258 
+MATH 119 
+SOCO 101 
+SOCO 110 
+SOCO 201 
+SOCO 223 
+SUST 101 
+Behavioral Science Statistics or 
+Elementary Statistics 3 
+Principles of Sociology 3 
+Contemporary Social Problems 3 
+Advanced Principles of Sociology 3 
+Globalization and Social Change 3 
+Introduction to Sustainability 3 
+Select at least one course and the remainder of 
+units needed to meet the minimum of 18 from 
+the following: 
+ACCT 116A Financial Accounting 4 
+BIOL 107 General Biology – Lecture and Laboratory 4 
+BUSE 140 Business Law and the Legal Environment 3 
+CBTE 120 Beginning Microsoft Word 2 
+CBTE 127 Introduction to PowerPoint 2 
+CBTE 140 Microsoft Excel 2 
+CBTE 162 Web Page Creation 2 
+CHEM 100 Fundamentals of Chemistry 3 
+CHEM 100L Fundamentals of Chemistry Laboratory 1 
+CISC 181 Principles of Information Systems 4 
+CISC 186 Visual Basic Programming 4 
+CISC 190 Java Programming 4 
+ENGL 105 Composition and Literature 3 
+ENGL 205 Critical Thinking and Intermediate Composition 3 
+ENGL 237 Women in Literature 3 
+HUMA 106 World Religions 3 
+LIBS 101 Information Literacy and Research Skills 1 
+MATH 121 Basic Techniques of Applied Calculus I 3 
+MATH 150 Calculus with Analytic Geometry I 5 
+PHIL 100 Logic and Critical Thinking 3 
+PHIL 101 Symbolic Logic 3 
+PHIL 102B Introduction To Philosophy: Values 3 
+PHIL 205 Critical Thinking and Writing in Philosophy 3 
+PHYN 100 Survey of Physical Science 3 
+total Units = 18 
+57	7601	7614	7658
+4
+57
+7601
+7614
+7658
+associate of arts Degree: Humanities Studies
+PHIL 205 Critical Thinking and Writing in Philosophy or 
+PHIL 100 Logic and Critical Thinking 3 
+Select at least 15 units from the following: 
+ANTH 103 Introduction to Cultural Anthropology 3 
+ARTF 113 Arts of Africa, Oceania, and the Americas 3 
+ARTF 125 Art History: Arts of the Asian Continent 3 
+BLAS 140A History of the U.S., Black Perspectives 3 
+BLAS 140B History of the U.S., Black Perspectives 3 
+ENGL 208 Introduction to Literature 3 
+ENGL 210 American Literature I 3 
+ENGL 211 American Literature II 3 
+ENGL 220 Masterpieces of World Literature I: 1500 BCE – 1600 CE 3 
+ENGL 221 Masterpieces of World Literature II: 1600 – Present 3 
+HIST 100 World History I 3 
+HIST 101 World History II 3 
+HIST 105 Introduction to Western Civilization I 3 
+HIST 109 History of the United States I 3 
+HIST 110 History of the United States II 3 
+HIST 141 Women in United States History I 3 
+HIST 142 Women in United States History II 3 
+HUMA 101 Introduction to the Humanities I 3 
+HUMA 102 Introduction to the Humanities II 3 
+HUMA 106 World Religions 3 
+HUMA 201 Mythology 3 
+MUSI 100 Introduction to Music 3 
+MUSI 109 World Music 3 
+PHIL 100 Logic and Critical Thinking 3 
+PHIL 101 Symbolic Logic 3 
+PHIL 102A Introduction To Philosophy: Reality and Knowledge 3 
+PHIL 102B Introduction To Philosophy: Values 3 
+PHIL 205 Critical Thinking and Writing in Philosophy 3 
+POLI 102 The American Political System 3 
+total Units = 18 
+
+58	7687	7705	7746
+4
+58
+7687
+7705
+7746
+
+associate in arts in Philosophy for transfer Degree:
+PHIL 100 Logic and Critical Thinking 
+PHIL 101 Symbolic Logic 
+PHIL 102B Introduction To Philosophy: Values 3 
+PHIL 205 Critical Thinking and Writing in Philosophy 3 
+Select one course (3 units) from the following: (It 
+is recommended that students select courses that meet 
+lower division major preparation requirements for their 
+transfer university). 
+PHIL 102A Introduction To Philosophy: Reality and Knowledge 3 
+PHIL 107 Refections on Human Nature 3 
+Select one course (3 units minimum) from the 
+following: (It is recommended that students select 
+courses that meet lower division major preparation 
+requirements for their transfer university). 
+PHIL 102A Introduction To Philosophy: Reality and Knowledge 3 
+PHIL 107 Refections on Human Nature 3 
+ENGL 209 Literary Approaches to Film 3 
+ENGL 220 Masterpieces of World Literature I: 1500 BCE – 1600 CE 3 
+ENGL 221 Masterpieces of World Literature II: 1600 – Present 3 
+ENGL 230 Asian American Literature 3 
+ENGL 237 Women in Literature 3 
+HIST 105 Introduction to Western Civilization I 3 
+HIST 106 Introduction to Western Civilization II 3 
+HIST 120 Introduction to Asian Civilizations 3 
+HIST 121 Asian Civilizations in Modern Times 3 
+HUMA 101 Introduction to the Humanities I 3 
+HUMA 102 Introduction to the Humanities II 3 
+HUMA 106 World Religions 3 
+HUMA 201 Mythology 3 
+SPAN 101 First Course in Spanish 5 
+SPAN 102 Second Course in Spanish 5 
+SPAN 201 Third Course in Spanish 5 
+TAGA 101 First Course in Tagalog 5 
+TAGA 102 Second Course in Tagalog 5 
+TAGA 201 Third Course in Tagalog 5 
+total Units = 18–20 
+59	8007	8027	8161
+4
+59
+8007
+8027
+8161
+associate of Science Degree: occupational/technical Studies
+Select at least one course from the following 
+occupational courses: 
+ACCT 120 Federal Income Tax 3 
+ACCT 150 Computer Accounting Applications 3 
+ADJU 101 Introduction to Administration of Justice 3 
+ADJU 102 Criminal Law I 3 
+ADJU 106 Diversity and Community Relations 3 
+ADJU 140 Patrol Procedures 3 
+ADJU 160 Criminal Law II 3 
+ADJU 161 Juvenile Procedures 3 
+ADJU 162 Criminal Investigation 3 
+ADJU 167 Report Writing 3 
+ADJU 201 California Criminal Procedure 3 
+ADJU 205 Leadership Theory and Practice 3 
+ADJU 210 Rules of Evidence 3 
+BANK 102 Mortgage Brokerage and Banking 4 
+BANK 104 Principles of Loan Processing 5 
+BANK 106 Loan Underwriting 5 
+BANK 108 Principles of Loan Closing 4 
+BUSE 100 Introduction to Business 3 AVIM 109D Aircraft Fire Protection and Digital 
+BUSE 101 Business Mathematics 3 
+BUSE 119 Business Communications 3 
+BUSE 150 Human Relations in Business 3 
+BUSE 201 Business Organization and 
+Management 3 
+LEGL 100A Introduction to Paralegalism 1 
+LEGL 100B Legal Procedures 2 
+LEGL 105 Legal Research 3 
+LEGL 110 Legal Writing & Communications 3 
+LEGL 115 Civil Litigation - Procedures 3 
+LEGL 120 Tort Law 3 
+LEGL 180 Contract Law 3 
+MARK 100 Principles of Marketing 3 
+PERG 130 Career - Life Planning 3 
+REAL 101 Real Estate Principles 3 
+REAL 105 Legal Aspects of Real Estate I 3 
+REAL 110 Principles of Real Estate Appraisal I 3 
+REAL 115 Real Estate Finance I 3 
+REAL 120 Real Estate Practice 3 
+REAL 125 Real Estate Economics 3 
+REAL 140 Real Estate Appraisal II 3 
+Select at least one course and the remainder of 
+units needed to meet the minimum of 18 from 
+the following technical courses: 
+AVIA 101 Private Pilot Ground School 3 
+AVIA 105 Introduction to Aviation and 
+Aerospace 3 
+AVIA 125 Aviation and Airport Management 3 
+AVIA 128 Group Dynamics for High Risk Teams 3 
+AVIA 133 Human Factors in Aviation 3 
+AVIA 151 Helicopter Ground School 3 
+AVIA 228 Group Dynamics II 3 
+AVIM 101G General Aviation Technology Theory I 6 
+AVIM 101H General Aviation Technology Theory II 6 
+AVIM 102G General Aviation Maintenance Technology Practices I 2 
+AVIM 102H General Aviation Maintenance Technology Practices II 2 
+AVIM 103B Aircraft Welding and Sheetmetal Structures 3 
+AVIM 103D Aircraft Landing Gear Systems 3 
+AVIM 104B Applied Aircraft Welding and Sheetmetal Structures 1.5 
+AVIM 104D Applied Aircraft Landing Gear Systems 1 
+AVIM 105A Aircraft Cabin Atmosphere Control 1.5 
+AVIM 106A Aircraft Cabin Atmosphere Control 0.5 
+AVIM 109A Airframe Electrical Systems 3 
+AVIM 109B Powerplant Ignition Systems 2 
+AVIM 110A Applied Airframe Electrical Systems 1 
+AVIM 107B Turbine Engines 3 
+AVIM 108B Applied Turbine Engines 1 
+Logic 1 
+AVIM 111C Reciprocating Engines I 3 
+AVIM 111D Reciprocating Engines II 3 
+AVIM 112C Applied Reciprocating Engines I 2 
+AVIM 112D Applied Reciprocating Engines II 1 
+AVIM 120 Basic D.C. Electronics Theory 3 
+AVIM 121A Applied Basic D.C. Electronics 1.5 
+AVIM 249 Induction and Fuel Metering 3 
+BIOL 131 Introduction to Biotechnology 4 
+BIOL 132 Applied Biotechnology I 4 
+BIOL 133 Applied Biotechnology II 4 
+BIOL 134 Introduction to the Biotechnology Lab 1 
+CBTE 114 Introduction to Microsoft Windows 1 
+CBTE 120 Beginning Microsoft Word 2 
+CBTE 122 Intermediate Microsoft Word 3 
+CBTE 127 Introduction to PowerPoint 2 
+CBTE 128 Comprehensive Microsoft PowerPoint 3 
+CBTE 140 Microsoft Excel 2 
+CBTE 143 Intermediate Microsoft Excel 3 
+CBTE 152 Beginning Microsoft Access 2 
+CBTE 153 Intermediate Microsoft Access 3 
+CBTE 162 Web Page Creation 2 
+CBTE 165 Webpage Creation with Dreamweaver 3 
+CBTE 170 Desktop Publishing 2 
+CBTE 180 Microsoft Ofce 3 
+DIES 100 Introduction to Diesel Technology 2 
+DIES 121 Diesel Engines A or 7 
+DIES 122 Diesel Engines B or 7 
+DIES 124 Diesel Engines D 7 
+DIES 135 Applied Failure Analysis 3 
+DIES 144 Electronics for Diesel Technology 3 
+DIES 160 Heavy Duty Manual Transmissions 3 
+DIES 170 Truck Drive Axles and Specifcations 3 
+EMGM 105A Emergency Medical Technician 
+National Registry 7 
+EMGM 106 Emergency Medical Technician 
+Defbrillation/Combitude 0.5 
+FIPT 150A Introduction to Fire Suppression and 
+Maintenance Manipulative Tasks 
+(Beginning) 1.5 
+FIPT 101 Fire Protection Organization 3 
+FIPT 102 Fire Prevention Technology 3 
+FIPT 103 Fire Protection Equipment and 
+Systems 
+FIPT 104 Building Construction for Fire 
+Protection 
+FIPT 105 Fire Behavior and Combustion 
+FIPT 107 Fire Fighting Tactics and Strategy 3 
+FIPT 109 Fire Service Hydraulics 3 
+FIPT 110A Wildland Fire C
